@@ -9,7 +9,7 @@ end
 
 
 def using_uniq(array)
-uniq(array)
+array.uniq()
 end
 
 
