@@ -23,6 +23,4 @@ def using_delete_at(array, string)
 end
 
 
-def using delete_at(array, integer)
 
-end
